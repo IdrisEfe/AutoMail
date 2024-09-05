@@ -1,0 +1,2 @@
+from AutoMail import autoMail
+
